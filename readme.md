@@ -4,4 +4,5 @@ Un repositorio con notebooks para aprender NLP desde cero para apoyar el blog: h
 
 1. Funcionamiento del encoder
 2. Funcionamiento del decoder
-3. ...
+3. Bert explicado
+4. ...
